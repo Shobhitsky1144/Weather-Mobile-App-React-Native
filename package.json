@@ -1,5 +1,5 @@
 {
-  "name": "awesomeapp",
+  "name": "Weather Mobile App React Native",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
